@@ -1,0 +1,38 @@
+./bin/sh: 1: ifconfig: not found
+Traceback (most recent call last):
+  File "/home/pi/rasp-ip/update-ip.py", line 6, in <module>
+    ident = os.popen('ifconfig').readlines()[1].split(' ')[9]
+IndexError: list index out of range
+/bin/sh: 1: ifconfig: not found
+Traceback (most recent call last):
+  File "/home/pi/rasp-ip/update-ip.py", line 6, in <module>
+    ident = os.popen('ifconfig').readlines()[1].split(' ')[9]
+IndexError: list index out of range
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628936762, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628936821, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628936881, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628936942, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937002, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937062, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937121, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937181, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937242, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937302, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937362, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937422, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937481, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937542, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937602, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937661, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937721, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937782, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937842, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937901, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628937962, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938022, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938081, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938256, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938316, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938317, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938321, \n  "name": "green"\n}\n'
+b'{\n  "ident": "e4:5f:01:1a:4e:84", \n  "ip": "192.168.1.115", \n  "ipts": 1628938381, \n  "name": "green"\n}\n'
